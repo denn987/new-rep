@@ -1,0 +1,7 @@
+echo "# new-rep" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/denn987/new-rep. 
+ git push -u происхождение основной
